@@ -259,7 +259,7 @@ gltfLoader.load(
  * grass
  */
 
-const grassCount = 125; // Number of grass instances you want to create
+const grassCount = 105; // Number of grass instances you want to create
 const FLOOR_SIZE = 90; // Adjust this value to match the size of your floor
 
 for (let i = 0; i < grassCount; i++) {
